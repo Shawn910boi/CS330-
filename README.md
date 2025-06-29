@@ -1,10 +1,10 @@
 # CS330-
 How do I approach designing software?
-I begin with clearly defining the goal and user interaction—what should the user experience be? For this project, that meant creating an engaging 2D game that incorporated physics, interactivity, and progressive feedback through animations. I used iterative sketching and feature prioritization to guide the layout and behavior of bricks, balls, and paddle controls.
+- I begin with clearly defining the goal and user interaction—what should the user experience be? For this project, that meant creating an engaging 2D game that incorporated physics, interactivity, and progressive feedback through animations. I used iterative sketching and feature prioritization to guide the layout and behavior of bricks, balls, and paddle controls.
 What new design skills has your work on the project helped you to craft?
-Through this project, I developed a deeper understanding of how visual elements (like color and shape) can reflect game state, such as a brick cracking after each hit. I also learned how to layer interactivity (multiple balls, paddle mechanics) in a way that feels intuitive to the player.
+-Through this project, I developed a deeper understanding of how visual elements (like color and shape) can reflect game state, such as a brick cracking after each hit. I also learned how to layer interactivity (multiple balls, paddle mechanics) in a way that feels intuitive to the player.
 What design process did you follow for your project work?
-I used an iterative design approach: start simple, test functionality, then enhance. For example, I began with a single ball and paddle, then added more complex interactions such as multiple balls and changing brick durability with visual feedback.
+-I used an iterative design approach: start simple, test functionality, then enhance. For example, I began with a single ball and paddle, then added more complex interactions such as multiple balls and changing brick durability with visual feedback.
 How could tactics from your design approach be applied in future work?
 This project reinforced that prototyping and user testing are crucial. In the future, I’ll continue applying iterative design cycles—starting with MVPs (minimum viable products), testing core logic, and layering features thoughtfully.
 How do I approach developing programs?
